@@ -1,0 +1,14 @@
+Package: summR
+Type: Package
+Title: Say Good Summer to People
+Version: 0.1.0
+Author: person("Cristina", "Sparks, email = csparks@bren.ucsb.edu", role = c("aut", "cre"))
+Maintainer: <csparks@bren.ucsb.edu>
+Description: Enables you to wish a person of your choice a happy summer.
+    Insert new paragraph.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: crayon, emo
+Remotes: hadley/emo
